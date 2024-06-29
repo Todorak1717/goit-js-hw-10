@@ -32,7 +32,7 @@ btnStart.addEventListener("click", () => {
         }
     }, 1000);
     
-  }   
+  }      
 )
 
 function addLeadingZero(value) {
